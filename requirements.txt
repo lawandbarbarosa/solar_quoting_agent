@@ -1,0 +1,17 @@
+# Web Framework & Server
+fastapi
+uvicorn
+pydantic
+requests
+
+# LangChain & Agentic Framework
+langchain
+langchain-openai
+langgraph
+
+# Utilities
+python-dotenv
+ipython
+
+# Frontend (Note: Consider moving this to a separate service/container)
+streamlit
